@@ -6,9 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['about.page.scss']
 })
 export class AboutPage {
-  
+
   items = [
-    'Pokémon Yellow',
+    'Pokémon Yellow\n',
     'Super Metroid',
     'Mega Man X',
     'The Legend of Zelda',
